@@ -1,0 +1,8 @@
+site:https://www.saucedemo.com/
+
+Utilizamos o site SauceDemo porque ele oferece um ambiente controlado que simula um e-commerce real, 
+permitindo que equipes de QA treinem e validem fluxos de navegação e funcionalidades sem afetar sistemas de produção. 
+Essa plataforma possibilita testar cenários comuns de compra, como login, adição de produtos ao carrinho e finalização de compra, 
+facilitando o uso de ferramentas de automação como Selenium, Cypress ou Playwright. Dessa forma, 
+o SauceDemo é uma ferramenta essencial para identificar e corrigir falhas, aprimorando as práticas e técnicas de testes 
+automatizados e manuais.

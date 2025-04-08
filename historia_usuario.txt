@@ -1,0 +1,4 @@
+Como usuário, quero adicionar um produto ao carrinho para finalizar uma compra. Após efetuar o login,
+o usuário acessa a lista de produtos, seleciona o item desejado e clica em "Adicionar ao Carrinho", 
+recebendo uma confirmação visual da ação. Em seguida, o usuário prossegue para o checkout, 
+insere os dados necessários e completa a compra, garantindo um fluxo simples e seguro.
